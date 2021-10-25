@@ -8,4 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Clock input
+- Basic algoquencer function like activity, variation, morphs, déjà vu, pitch
+  high and pitch low
+- Reset input and output
+- Clock input and output
