@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Add mute buttons
 - Quantize algoquencer output and add interval selection
 - Basic algoquencer function like activity, variation, morphs, déjà vu, pitch
   high and pitch low
